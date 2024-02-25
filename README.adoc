@@ -1,0 +1,13 @@
+= what is this?
+this project is just a POC/prototype to see if you can develop a vintage story mod with F#. there is not much depth to it *but* as soon as this project is all worked out its possible to at least create a template for devs who prefer modding in F# instead of C#.
+
+== FIRST OFF:
+*this project was created with visual studio code.* +
+keep this in the back of your mind before you proceed to experiment with this repo.
+
+== CURRENT STATUS:
+current status as of 25. feb. 2024:
+
+the code compiles and you can launch debug the code. BUT as soon as you load into a world and look into the logs folder you will see *runtime exceptions* occuring.
+
+*the generated DLLs do not recognize the defined type in vintagestoryModSystem.fs as being as subtype of ModSystem.*
