@@ -8,6 +8,9 @@ keep this in the back of your mind before you proceed to experiment with this re
 == CURRENT STATUS:
 current status as of 25. feb. 2024:
 
+SDK USED: 7.0.406
+Vintage Story version used: 1.19.3
+
 the code compiles and you can launch debug the code. BUT as soon as you load into a world and look into the logs folder you will see *runtime exceptions* occuring.
 
 *the generated DLLs do not recognize the defined type in vintagestoryModSystem.fs as being as subtype of ModSystem.*
