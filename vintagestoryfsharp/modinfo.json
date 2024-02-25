@@ -1,9 +1,9 @@
 {
     "type": "code",
-    "modid": "vintagestory",
-    "name": "vintagestory",
+    "modid": "vintagestoryfsharp",
+    "name": "vintagestoryfsharp",
     "authors": [
-        "Unknown"
+        "orochi02"
     ],
     "description": "To be added",
     "version": "1.0.0",
