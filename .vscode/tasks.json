@@ -9,7 +9,7 @@
                 "build",
                 "-c",
                 "Debug",
-                "${workspaceFolder}/vintagestory/vintagestory.csproj"
+                "${workspaceFolder}/vintagestory/vintagestory.fsproj"
             ],
             "problemMatcher": "$msCompile"
         },
